@@ -1,1 +1,1 @@
-# Plant-Disease-Detection-using-VGG-19
+# Plant Disease Detection using VGG-19
